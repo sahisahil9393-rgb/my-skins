@@ -1,0 +1,16 @@
+{
+  "cdnCache": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main",
+  "cdnLauncher": "",
+  "cacheMode": [],
+  "rss": "",
+  "versionHash": "1",
+  "packageName": "com.app",
+  "projectName": "App",
+  "servers": [],
+  "launcher": {"appVersion": "1", "name": "", "hash": "", "bytes": 0, "size": "0"},
+  "filesContinue": [],
+  "cache": [
+    {"id": 1, "name": "skin300.dff", "path": "", "bytes": [2500000], "gpu": "all"},
+    {"id": 2, "name": "skin300.txd", "path": "", "bytes": [1800000], "gpu": "all"}
+  ]
+}
