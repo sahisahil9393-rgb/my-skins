@@ -15,7 +15,7 @@
     "events": [],
     "slot": 1,
     "bonus": false,
-    "name": "اسم سيرفري",
+    "name": "Halal_RP",
     "description": "سيرفر تجريبي",
     "address": "65.108.36.172:29817",
     "sampVersion": "0.3.7"
@@ -23,8 +23,4 @@
   ], 
   "launcher": {"appVersion": "1", "name": "", "hash": "", "bytes": 0, "size": "0"},
   "filesContinue": [],
-  "cache": [
-    {"id": 1, "name": "skin300.dff", "path": "", "bytes": [2500000], "gpu": "all"},
-    {"id": 2, "name": "skin300.txd", "path": "", "bytes": [1800000], "gpu": "all"}
-  ]
-}
+  "cache": []
