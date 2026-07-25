@@ -6,7 +6,21 @@
   "versionHash": "1",
   "packageName": "com.app",
   "projectName": "App",
-  "servers": [],
+  "servers": [
+  {
+    "id": 1,
+    "show": true,
+    "version": "1.0",
+    "icon": "",
+    "events": [],
+    "slot": 1,
+    "bonus": false,
+    "name": "اسم سيرفري",
+    "description": "سيرفر تجريبي",
+    "address": "65.108.36.172:29817",
+    "sampVersion": "0.3.7"
+  }
+  ], 
   "launcher": {"appVersion": "1", "name": "", "hash": "", "bytes": 0, "size": "0"},
   "filesContinue": [],
   "cache": [
