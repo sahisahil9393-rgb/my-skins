@@ -1,0 +1,9 @@
+#ILS by ARM
+objs
+19950, ARM_ILSEdgeLight, ARM, 150, 0
+19951, ARM_ILSEndLight, ARM, 150, 0
+19952, ARM_ILSTaxiLight, ARM, 150, 0
+19953, ARM_ILSThrldLight, ARM, 150, 0
+19954, ARM_TaxiLightEdge, ARM, 150, 0
+19955, ARM_ILSCenterLine, ARM, 150, 0
+end

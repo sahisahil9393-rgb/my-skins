@@ -1,0 +1,4 @@
+# for SAMP, add ALL the contents into your custom.ide or samp.ide, or add vgnfremntsgn_neon.txd textures into vgnfremntsgn.txd using Magic.TXD
+txdp
+vgnfremntsgn, vgnfremntsgn_neon
+end
