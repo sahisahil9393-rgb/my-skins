@@ -1,5 +1,5 @@
 {
-  "version_code": 210,
-  "url_launcher": "https://your-domain.com/update.apk",
-  "url_cache_files": "https://your-domain.com/cache_files.json"
+  "version_code": 105,
+  "url_launcher": "",
+  "url_cache_files": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/cache_files.json"
 }
