@@ -1,0 +1,2512 @@
+{
+    "files": [
+        {
+            "name": "CasinoSmoke.csa",
+            "path": "cleo/CasinoSmoke.csa",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/cleo/CasinoSmoke.csa",
+            "size": 4844
+        },
+        {
+            "name": "ClubSmokeJ.csa",
+            "path": "cleo/ClubSmokeJ.csa",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/cleo/ClubSmokeJ.csa",
+            "size": 47786
+        },
+        {
+            "name": "Illuminated Vinewood Sign.csa",
+            "path": "cleo/Illuminated Vinewood Sign.csa",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/cleo/Illuminated Vinewood Sign.csa",
+            "size": 885
+        },
+        {
+            "name": "PS2 Pay'n'Spray.csa",
+            "path": "cleo/PS2 Pay'n'Spray.csa",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/cleo/PS2 Pay'n'Spray.csa",
+            "size": 18520
+        },
+        {
+            "name": "SFDP Heli Fix (Junior_Djjr).csa",
+            "path": "cleo/SFDP Heli Fix (Junior_Djjr).csa",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/cleo/SFDP Heli Fix (Junior_Djjr).csa",
+            "size": 101
+        },
+        {
+            "name": "StuntSmoke.csa",
+            "path": "cleo/StuntSmoke.csa",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/cleo/StuntSmoke.csa",
+            "size": 1072
+        },
+        {
+            "name": "Wang Car Peds.csa",
+            "path": "cleo/Wang Car Peds.csa",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/cleo/Wang Car Peds.csa",
+            "size": 17821
+        },
+        {
+            "name": "AdvancedSettings.SA.ini",
+            "path": "configs/AdvancedSettings.SA.ini",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/configs/AdvancedSettings.SA.ini",
+            "size": 4984
+        },
+        {
+            "name": "ARM.CheatMenu.ini",
+            "path": "configs/ARM.CheatMenu.ini",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/configs/ARM.CheatMenu.ini",
+            "size": 943
+        },
+        {
+            "name": "ARM.CustomLoadingBar.ini",
+            "path": "configs/ARM.CustomLoadingBar.ini",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/configs/ARM.CustomLoadingBar.ini",
+            "size": 756
+        },
+        {
+            "name": "hyshii.ClassicFX.ini",
+            "path": "configs/hyshii.ClassicFX.ini",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/configs/hyshii.ClassicFX.ini",
+            "size": 1170
+        },
+        {
+            "name": "ModLoaderCore.ini",
+            "path": "configs/ModLoaderCore.ini",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/configs/ModLoaderCore.ini",
+            "size": 679
+        },
+        {
+            "name": "net.juniordjjr.rusjj.rtf.ini",
+            "path": "configs/net.juniordjjr.rusjj.rtf.ini",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/configs/net.juniordjjr.rusjj.rtf.ini",
+            "size": 618
+        },
+        {
+            "name": "net.rusjj.blipworks.ini",
+            "path": "configs/net.rusjj.blipworks.ini",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/configs/net.rusjj.blipworks.ini",
+            "size": 187
+        },
+        {
+            "name": "net.rusjj.cleolib.ini",
+            "path": "configs/net.rusjj.cleolib.ini",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/configs/net.rusjj.cleolib.ini",
+            "size": 200
+        },
+        {
+            "name": "net.rusjj.jpatch.ini",
+            "path": "configs/net.rusjj.jpatch.ini",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/configs/net.rusjj.jpatch.ini",
+            "size": 6682
+        },
+        {
+            "name": "net.rusjj.skygfxmobile.ini",
+            "path": "configs/net.rusjj.skygfxmobile.ini",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/configs/net.rusjj.skygfxmobile.ini",
+            "size": 695
+        },
+        {
+            "name": "net.xkiloader.ini",
+            "path": "configs/net.xkiloader.ini",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/configs/net.xkiloader.ini",
+            "size": 325
+        },
+        {
+            "name": "RearLightTrails.ini",
+            "path": "configs/RearLightTrails.ini",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/configs/RearLightTrails.ini",
+            "size": 3835
+        },
+        {
+            "name": "SABulletTrails_Weapons.ini",
+            "path": "configs/SABulletTrails_Weapons.ini",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/configs/SABulletTrails_Weapons.ini",
+            "size": 1459
+        },
+        {
+            "name": "SALodLights.ini",
+            "path": "configs/SALodLights.ini",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/configs/SALodLights.ini",
+            "size": 1033
+        },
+        {
+            "name": "StarrySkies.ini",
+            "path": "configs/StarrySkies.ini",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/configs/StarrySkies.ini",
+            "size": 137
+        },
+        {
+            "name": "VCBulletTrails_Weapons.ini",
+            "path": "configs/VCBulletTrails_Weapons.ini",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/configs/VCBulletTrails_Weapons.ini",
+            "size": 1447
+        },
+        {
+            "name": "XkiiGnss.3DRadar.ini",
+            "path": "configs/XkiiGnss.3DRadar.ini",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/configs/XkiiGnss.3DRadar.ini",
+            "size": 655
+        },
+        {
+            "name": "XkiiGnss.ImHudExtended.ini",
+            "path": "configs/XkiiGnss.ImHudExtended.ini",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/configs/XkiiGnss.ImHudExtended.ini",
+            "size": 9388
+        },
+        {
+            "name": "XkiiGnss.xkiloader.ini",
+            "path": "configs/XkiiGnss.xkiloader.ini",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/configs/XkiiGnss.xkiloader.ini",
+            "size": 290
+        },
+        {
+            "name": "Adjustable.cfg",
+            "path": "files/Adjustable.cfg",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/Adjustable.cfg",
+            "size": 1780
+        },
+        {
+            "name": "anim.img",
+            "path": "files/anim/anim.img",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/anim/anim.img",
+            "size": 10942464
+        },
+        {
+            "name": "cuts.img",
+            "path": "files/anim/cuts.img",
+            "url": "https://github.com/sahisahil9393-rgb/my-skins/releases/download/gta-sa-android-files-v1.0.0/files__anim__cuts.img",
+            "size": 270721024
+        },
+        {
+            "name": "ped.ifp",
+            "path": "files/anim/ped.ifp",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/anim/ped.ifp",
+            "size": 1440554
+        },
+        {
+            "name": "addonskin.dat",
+            "path": "files/ARM/CheatMenu/data/addonskin.dat",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/ARM/CheatMenu/data/addonskin.dat",
+            "size": 316
+        },
+        {
+            "name": "cheats.dat",
+            "path": "files/ARM/CheatMenu/data/cheats.dat",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/ARM/CheatMenu/data/cheats.dat",
+            "size": 2942
+        },
+        {
+            "name": "cutscenes.dat",
+            "path": "files/ARM/CheatMenu/data/cutscenes.dat",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/ARM/CheatMenu/data/cutscenes.dat",
+            "size": 5793
+        },
+        {
+            "name": "weapons.dat",
+            "path": "files/ARM/CheatMenu/data/weapons.dat",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/ARM/CheatMenu/data/weapons.dat",
+            "size": 1200
+        },
+        {
+            "name": "Credits.txt",
+            "path": "files/ARM/CheatMenu/font/Credits.txt",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/ARM/CheatMenu/font/Credits.txt",
+            "size": 42
+        },
+        {
+            "name": "MyFont.ttf",
+            "path": "files/ARM/CheatMenu/font/MyFont.ttf",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/ARM/CheatMenu/font/MyFont.ttf",
+            "size": 1036584
+        },
+        {
+            "name": "English.toml",
+            "path": "files/ARM/CheatMenu/locale/English.toml",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/ARM/CheatMenu/locale/English.toml",
+            "size": 7934
+        },
+        {
+            "name": "Indonesia.toml",
+            "path": "files/ARM/CheatMenu/locale/Indonesia.toml",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/ARM/CheatMenu/locale/Indonesia.toml",
+            "size": 8405
+        },
+        {
+            "name": "Spanish.toml",
+            "path": "files/ARM/CheatMenu/locale/Spanish.toml",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/ARM/CheatMenu/locale/Spanish.toml",
+            "size": 9051
+        },
+        {
+            "name": "ProgressTex.png",
+            "path": "files/ARM/LoadingBar/ProgressTex.png",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/ARM/LoadingBar/ProgressTex.png",
+            "size": 1364
+        },
+        {
+            "name": "sauce.txt",
+            "path": "files/ARM/LoadingBar/sauce.txt",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/ARM/LoadingBar/sauce.txt",
+            "size": 68
+        },
+        {
+            "name": "ARMcorona.png",
+            "path": "files/ARMcorona.png",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/ARMcorona.png",
+            "size": 2468
+        },
+        {
+            "name": "AudioEventHistory.txt",
+            "path": "files/audio/CONFIG/AudioEventHistory.txt",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/audio/CONFIG/AudioEventHistory.txt",
+            "size": 114056
+        },
+        {
+            "name": "BankLkup.dat",
+            "path": "files/audio/CONFIG/BankLkup.dat",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/audio/CONFIG/BankLkup.dat",
+            "size": 8520
+        },
+        {
+            "name": "BankSlot.dat",
+            "path": "files/audio/CONFIG/BankSlot.dat",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/audio/CONFIG/BankSlot.dat",
+            "size": 216902
+        },
+        {
+            "name": "EventVol.dat",
+            "path": "files/audio/CONFIG/EventVol.dat",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/audio/CONFIG/EventVol.dat",
+            "size": 45402
+        },
+        {
+            "name": "PakFiles.dat",
+            "path": "files/audio/CONFIG/PakFiles.dat",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/audio/CONFIG/PakFiles.dat",
+            "size": 468
+        },
+        {
+            "name": "SOUNDINF.DAT",
+            "path": "files/audio/CONFIG/SOUNDINF.DAT",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/audio/CONFIG/SOUNDINF.DAT",
+            "size": 746760
+        },
+        {
+            "name": "StrmPaks.dat",
+            "path": "files/audio/CONFIG/StrmPaks.dat",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/audio/CONFIG/StrmPaks.dat",
+            "size": 272
+        },
+        {
+            "name": "TrakLkup.dat",
+            "path": "files/audio/CONFIG/TrakLkup.dat",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/audio/CONFIG/TrakLkup.dat",
+            "size": 23064
+        },
+        {
+            "name": "TRKHEAD.DAT",
+            "path": "files/audio/CONFIG/TRKHEAD.DAT",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/audio/CONFIG/TRKHEAD.DAT",
+            "size": 15506696
+        },
+        {
+            "name": "FEET.osw",
+            "path": "files/audio/SFX/FEET.osw",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/audio/SFX/FEET.osw",
+            "size": 328924
+        },
+        {
+            "name": "FEET.osw.idx",
+            "path": "files/audio/SFX/FEET.osw.idx",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/audio/SFX/FEET.osw.idx",
+            "size": 1220
+        },
+        {
+            "name": "GENRL.osw",
+            "path": "files/audio/SFX/GENRL.osw",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/audio/SFX/GENRL.osw",
+            "size": 29974221
+        },
+        {
+            "name": "GENRL.osw.idx",
+            "path": "files/audio/SFX/GENRL.osw.idx",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/audio/SFX/GENRL.osw.idx",
+            "size": 22436
+        },
+        {
+            "name": "PAIN_A.osw",
+            "path": "files/audio/SFX/PAIN_A.osw",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/audio/SFX/PAIN_A.osw",
+            "size": 11900533
+        },
+        {
+            "name": "PAIN_A.osw.idx",
+            "path": "files/audio/SFX/PAIN_A.osw.idx",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/audio/SFX/PAIN_A.osw.idx",
+            "size": 12836
+        },
+        {
+            "name": "AA.osw",
+            "path": "files/audio/STREAMS/AA.osw",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/audio/STREAMS/AA.osw",
+            "size": 15462
+        },
+        {
+            "name": "AA.osw.idx",
+            "path": "files/audio/STREAMS/AA.osw.idx",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/audio/STREAMS/AA.osw.idx",
+            "size": 1522
+        },
+        {
+            "name": "ADVERTS.osw",
+            "path": "files/audio/STREAMS/ADVERTS.osw",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/audio/STREAMS/ADVERTS.osw",
+            "size": 3516982
+        },
+        {
+            "name": "ADVERTS.osw.idx",
+            "path": "files/audio/STREAMS/ADVERTS.osw.idx",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/audio/STREAMS/ADVERTS.osw.idx",
+            "size": 1591
+        },
+        {
+            "name": "AMBIENCE.osw",
+            "path": "files/audio/STREAMS/AMBIENCE.osw",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/audio/STREAMS/AMBIENCE.osw",
+            "size": 22719112
+        },
+        {
+            "name": "AMBIENCE.osw.idx",
+            "path": "files/audio/STREAMS/AMBIENCE.osw.idx",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/audio/STREAMS/AMBIENCE.osw.idx",
+            "size": 924
+        },
+        {
+            "name": "BEATS.osw",
+            "path": "files/audio/STREAMS/BEATS.osw",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/audio/STREAMS/BEATS.osw",
+            "size": 9415375
+        },
+        {
+            "name": "BEATS.osw.idx",
+            "path": "files/audio/STREAMS/BEATS.osw.idx",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/audio/STREAMS/BEATS.osw.idx",
+            "size": 234
+        },
+        {
+            "name": "CH.osw",
+            "path": "files/audio/STREAMS/CH.osw",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/audio/STREAMS/CH.osw",
+            "size": 25534120
+        },
+        {
+            "name": "CH.osw.idx",
+            "path": "files/audio/STREAMS/CH.osw.idx",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/audio/STREAMS/CH.osw.idx",
+            "size": 2994
+        },
+        {
+            "name": "CO.osw",
+            "path": "files/audio/STREAMS/CO.osw",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/audio/STREAMS/CO.osw",
+            "size": 15462
+        },
+        {
+            "name": "CO.osw.idx",
+            "path": "files/audio/STREAMS/CO.osw.idx",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/audio/STREAMS/CO.osw.idx",
+            "size": 3569
+        },
+        {
+            "name": "CR.osw",
+            "path": "files/audio/STREAMS/CR.osw",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/audio/STREAMS/CR.osw",
+            "size": 32566640
+        },
+        {
+            "name": "CR.osw.idx",
+            "path": "files/audio/STREAMS/CR.osw.idx",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/audio/STREAMS/CR.osw.idx",
+            "size": 3592
+        },
+        {
+            "name": "CUTSCENE.osw",
+            "path": "files/audio/STREAMS/CUTSCENE.osw",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/audio/STREAMS/CUTSCENE.osw",
+            "size": 58217293
+        },
+        {
+            "name": "CUTSCENE.osw.idx",
+            "path": "files/audio/STREAMS/CUTSCENE.osw.idx",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/audio/STREAMS/CUTSCENE.osw.idx",
+            "size": 3247
+        },
+        {
+            "name": "DS.osw",
+            "path": "files/audio/STREAMS/DS.osw",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/audio/STREAMS/DS.osw",
+            "size": 35168617
+        },
+        {
+            "name": "DS.osw.idx",
+            "path": "files/audio/STREAMS/DS.osw.idx",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/audio/STREAMS/DS.osw.idx",
+            "size": 4121
+        },
+        {
+            "name": "HC.osw",
+            "path": "files/audio/STREAMS/HC.osw",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/audio/STREAMS/HC.osw",
+            "size": 15462
+        },
+        {
+            "name": "HC.osw.idx",
+            "path": "files/audio/STREAMS/HC.osw.idx",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/audio/STREAMS/HC.osw.idx",
+            "size": 2649
+        },
+        {
+            "name": "MH.osw",
+            "path": "files/audio/STREAMS/MH.osw",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/audio/STREAMS/MH.osw",
+            "size": 34755603
+        },
+        {
+            "name": "MH.osw.idx",
+            "path": "files/audio/STREAMS/MH.osw.idx",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/audio/STREAMS/MH.osw.idx",
+            "size": 3500
+        },
+        {
+            "name": "MR.osw",
+            "path": "files/audio/STREAMS/MR.osw",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/audio/STREAMS/MR.osw",
+            "size": 30605788
+        },
+        {
+            "name": "MR.osw.idx",
+            "path": "files/audio/STREAMS/MR.osw.idx",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/audio/STREAMS/MR.osw.idx",
+            "size": 3385
+        },
+        {
+            "name": "NJ.osw",
+            "path": "files/audio/STREAMS/NJ.osw",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/audio/STREAMS/NJ.osw",
+            "size": 15462
+        },
+        {
+            "name": "NJ.osw.idx",
+            "path": "files/audio/STREAMS/NJ.osw.idx",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/audio/STREAMS/NJ.osw.idx",
+            "size": 2994
+        },
+        {
+            "name": "RE.osw",
+            "path": "files/audio/STREAMS/RE.osw",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/audio/STREAMS/RE.osw",
+            "size": 33331764
+        },
+        {
+            "name": "RE.osw.idx",
+            "path": "files/audio/STREAMS/RE.osw.idx",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/audio/STREAMS/RE.osw.idx",
+            "size": 3707
+        },
+        {
+            "name": "RG.osw",
+            "path": "files/audio/STREAMS/RG.osw",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/audio/STREAMS/RG.osw",
+            "size": 36833393
+        },
+        {
+            "name": "RG.osw.idx",
+            "path": "files/audio/STREAMS/RG.osw.idx",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/audio/STREAMS/RG.osw.idx",
+            "size": 3914
+        },
+        {
+            "name": "TK.osw",
+            "path": "files/audio/STREAMS/TK.osw",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/audio/STREAMS/TK.osw",
+            "size": 15462
+        },
+        {
+            "name": "TK.osw.idx",
+            "path": "files/audio/STREAMS/TK.osw.idx",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/audio/STREAMS/TK.osw.idx",
+            "size": 2327
+        },
+        {
+            "name": "360Default1280x720.cfg",
+            "path": "files/data/360Default1280x720.cfg",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/360Default1280x720.cfg",
+            "size": 10898
+        },
+        {
+            "name": "360Default960x720.cfg",
+            "path": "files/data/360Default960x720.cfg",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/360Default960x720.cfg",
+            "size": 10888
+        },
+        {
+            "name": "aimingSets.dat",
+            "path": "files/data/aimingSets.dat",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/aimingSets.dat",
+            "size": 1105
+        },
+        {
+            "name": "animgrp.dat",
+            "path": "files/data/animgrp.dat",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/animgrp.dat",
+            "size": 3096
+        },
+        {
+            "name": "ar_stats.dat",
+            "path": "files/data/ar_stats.dat",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/ar_stats.dat",
+            "size": 3593
+        },
+        {
+            "name": "carcols.dat",
+            "path": "files/data/carcols.dat",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/carcols.dat",
+            "size": 15472
+        },
+        {
+            "name": "cargrp.dat",
+            "path": "files/data/cargrp.dat",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/cargrp.dat",
+            "size": 3909
+        },
+        {
+            "name": "carmods.dat",
+            "path": "files/data/carmods.dat",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/carmods.dat",
+            "size": 8763
+        },
+        {
+            "name": "clothes.dat",
+            "path": "files/data/clothes.dat",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/clothes.dat",
+            "size": 5317
+        },
+        {
+            "name": "colorcycle.dat",
+            "path": "files/data/colorcycle.dat",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/colorcycle.dat",
+            "size": 13612
+        },
+        {
+            "name": "Cop.ped",
+            "path": "files/data/Decision/Allowed/Cop.ped",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/Decision/Allowed/Cop.ped",
+            "size": 4908
+        },
+        {
+            "name": "Fireman.ped",
+            "path": "files/data/Decision/Allowed/Fireman.ped",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/Decision/Allowed/Fireman.ped",
+            "size": 4435
+        },
+        {
+            "name": "GangMbr.ped",
+            "path": "files/data/Decision/Allowed/GangMbr.ped",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/Decision/Allowed/GangMbr.ped",
+            "size": 6194
+        },
+        {
+            "name": "Indoors.ped",
+            "path": "files/data/Decision/Allowed/Indoors.ped",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/Decision/Allowed/Indoors.ped",
+            "size": 2809
+        },
+        {
+            "name": "m_empty.ped",
+            "path": "files/data/Decision/Allowed/m_empty.ped",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/Decision/Allowed/m_empty.ped",
+            "size": 982
+        },
+        {
+            "name": "m_norm.ped",
+            "path": "files/data/Decision/Allowed/m_norm.ped",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/Decision/Allowed/m_norm.ped",
+            "size": 4142
+        },
+        {
+            "name": "m_plyr.ped",
+            "path": "files/data/Decision/Allowed/m_plyr.ped",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/Decision/Allowed/m_plyr.ped",
+            "size": 2000
+        },
+        {
+            "name": "m_steal.ped",
+            "path": "files/data/Decision/Allowed/m_steal.ped",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/Decision/Allowed/m_steal.ped",
+            "size": 3663
+        },
+        {
+            "name": "m_tough.ped",
+            "path": "files/data/Decision/Allowed/m_tough.ped",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/Decision/Allowed/m_tough.ped",
+            "size": 3980
+        },
+        {
+            "name": "m_weak.ped",
+            "path": "files/data/Decision/Allowed/m_weak.ped",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/Decision/Allowed/m_weak.ped",
+            "size": 4062
+        },
+        {
+            "name": "MISSION.grp",
+            "path": "files/data/Decision/Allowed/MISSION.grp",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/Decision/Allowed/MISSION.grp",
+            "size": 2758
+        },
+        {
+            "name": "R_Norm.ped",
+            "path": "files/data/Decision/Allowed/R_Norm.ped",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/Decision/Allowed/R_Norm.ped",
+            "size": 6428
+        },
+        {
+            "name": "R_Tough.ped",
+            "path": "files/data/Decision/Allowed/R_Tough.ped",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/Decision/Allowed/R_Tough.ped",
+            "size": 6355
+        },
+        {
+            "name": "R_Weak.ped",
+            "path": "files/data/Decision/Allowed/R_Weak.ped",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/Decision/Allowed/R_Weak.ped",
+            "size": 6289
+        },
+        {
+            "name": "RANDOM.grp",
+            "path": "files/data/Decision/Allowed/RANDOM.grp",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/Decision/Allowed/RANDOM.grp",
+            "size": 4623
+        },
+        {
+            "name": "RANDOM.ped",
+            "path": "files/data/Decision/Allowed/RANDOM.ped",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/Decision/Allowed/RANDOM.ped",
+            "size": 4142
+        },
+        {
+            "name": "RANDOM2.grp",
+            "path": "files/data/Decision/Allowed/RANDOM2.grp",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/Decision/Allowed/RANDOM2.grp",
+            "size": 4623
+        },
+        {
+            "name": "PedEvent.txt",
+            "path": "files/data/Decision/PedEvent.txt",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/Decision/PedEvent.txt",
+            "size": 1298
+        },
+        {
+            "name": "default.dat",
+            "path": "files/data/default.dat",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/default.dat",
+            "size": 577
+        },
+        {
+            "name": "default.ide",
+            "path": "files/data/default.ide",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/default.ide",
+            "size": 4679
+        },
+        {
+            "name": "fonts.dat",
+            "path": "files/data/fonts.dat",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/fonts.dat",
+            "size": 3576
+        },
+        {
+            "name": "furnitur.dat",
+            "path": "files/data/furnitur.dat",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/furnitur.dat",
+            "size": 16697
+        },
+        {
+            "name": "gridref.dat",
+            "path": "files/data/gridref.dat",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/gridref.dat",
+            "size": 1498
+        },
+        {
+            "name": "gta.dat",
+            "path": "files/data/gta.dat",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/gta.dat",
+            "size": 4602
+        },
+        {
+            "name": "handling.cfg",
+            "path": "files/data/handling.cfg",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/handling.cfg",
+            "size": 64532
+        },
+        {
+            "name": "ILS.ide",
+            "path": "files/data/ILS/ILS.ide",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/ILS/ILS.ide",
+            "size": 244
+        },
+        {
+            "name": "ILS_LS.ipl",
+            "path": "files/data/ILS/ILS_LS.ipl",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/ILS/ILS_LS.ipl",
+            "size": 56540
+        },
+        {
+            "name": "ILS_SF.ipl",
+            "path": "files/data/ILS/ILS_SF.ipl",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/ILS/ILS_SF.ipl",
+            "size": 99468
+        },
+        {
+            "name": "info.zon",
+            "path": "files/data/info.zon",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/info.zon",
+            "size": 28139
+        },
+        {
+            "name": "map.zon",
+            "path": "files/data/map.zon",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/map.zon",
+            "size": 436
+        },
+        {
+            "name": "AirConds.ipl",
+            "path": "files/data/maps/AirConds.ipl",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/maps/AirConds.ipl",
+            "size": 171023
+        },
+        {
+            "name": "Audiozon.ipl",
+            "path": "files/data/maps/Audiozon.ipl",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/maps/Audiozon.ipl",
+            "size": 10802
+        },
+        {
+            "name": "Back O Beyond Veg.ipl",
+            "path": "files/data/maps/Back O Beyond Veg.ipl",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/maps/Back O Beyond Veg.ipl",
+            "size": 17174
+        },
+        {
+            "name": "BDefMap.ipl",
+            "path": "files/data/maps/BDefMap.ipl",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/maps/BDefMap.ipl",
+            "size": 21506
+        },
+        {
+            "name": "Candy Suxx Neon.ide",
+            "path": "files/data/maps/Candy Suxx Neon.ide",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/maps/Candy Suxx Neon.ide",
+            "size": 186
+        },
+        {
+            "name": "countn2.ide",
+            "path": "files/data/maps/country/countn2.ide",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/maps/country/countn2.ide",
+            "size": 35439
+        },
+        {
+            "name": "countn2.ipl",
+            "path": "files/data/maps/country/countn2.ipl",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/maps/country/countn2.ipl",
+            "size": 41665
+        },
+        {
+            "name": "countrye.ide",
+            "path": "files/data/maps/country/countrye.ide",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/maps/country/countrye.ide",
+            "size": 34529
+        },
+        {
+            "name": "countrye.ipl",
+            "path": "files/data/maps/country/countrye.ipl",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/maps/country/countrye.ipl",
+            "size": 49329
+        },
+        {
+            "name": "countryN.ide",
+            "path": "files/data/maps/country/countryN.ide",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/maps/country/countryN.ide",
+            "size": 11308
+        },
+        {
+            "name": "countryN.ipl",
+            "path": "files/data/maps/country/countryN.ipl",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/maps/country/countryN.ipl",
+            "size": 14407
+        },
+        {
+            "name": "countryS.ide",
+            "path": "files/data/maps/country/countryS.ide",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/maps/country/countryS.ide",
+            "size": 18450
+        },
+        {
+            "name": "countrys.ipl",
+            "path": "files/data/maps/country/countrys.ipl",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/maps/country/countrys.ipl",
+            "size": 33798
+        },
+        {
+            "name": "countryW.ide",
+            "path": "files/data/maps/country/countryW.ide",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/maps/country/countryW.ide",
+            "size": 19704
+        },
+        {
+            "name": "countryw.ipl",
+            "path": "files/data/maps/country/countryw.ipl",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/maps/country/countryw.ipl",
+            "size": 35057
+        },
+        {
+            "name": "counxref.ide",
+            "path": "files/data/maps/country/counxref.ide",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/maps/country/counxref.ide",
+            "size": 8947
+        },
+        {
+            "name": "cull.ipl",
+            "path": "files/data/maps/cull.ipl",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/maps/cull.ipl",
+            "size": 104318
+        },
+        {
+            "name": "barriers.ide",
+            "path": "files/data/maps/generic/barriers.ide",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/maps/generic/barriers.ide",
+            "size": 1437
+        },
+        {
+            "name": "dynamic.ide",
+            "path": "files/data/maps/generic/dynamic.ide",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/maps/generic/dynamic.ide",
+            "size": 4611
+        },
+        {
+            "name": "dynamic2.ide",
+            "path": "files/data/maps/generic/dynamic2.ide",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/maps/generic/dynamic2.ide",
+            "size": 10510
+        },
+        {
+            "name": "multiobj.ide",
+            "path": "files/data/maps/generic/multiobj.ide",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/maps/generic/multiobj.ide",
+            "size": 5020
+        },
+        {
+            "name": "procobj.ide",
+            "path": "files/data/maps/generic/procobj.ide",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/maps/generic/procobj.ide",
+            "size": 4755
+        },
+        {
+            "name": "vegepart.ide",
+            "path": "files/data/maps/generic/vegepart.ide",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/maps/generic/vegepart.ide",
+            "size": 8062
+        },
+        {
+            "name": "gen_int1.ide",
+            "path": "files/data/maps/interior/gen_int1.ide",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/maps/interior/gen_int1.ide",
+            "size": 2747
+        },
+        {
+            "name": "gen_int1.ipl",
+            "path": "files/data/maps/interior/gen_int1.ipl",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/maps/interior/gen_int1.ipl",
+            "size": 21073
+        },
+        {
+            "name": "gen_int2.ide",
+            "path": "files/data/maps/interior/gen_int2.ide",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/maps/interior/gen_int2.ide",
+            "size": 10941
+        },
+        {
+            "name": "gen_int2.ipl",
+            "path": "files/data/maps/interior/gen_int2.ipl",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/maps/interior/gen_int2.ipl",
+            "size": 1683
+        },
+        {
+            "name": "gen_int3.ide",
+            "path": "files/data/maps/interior/gen_int3.ide",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/maps/interior/gen_int3.ide",
+            "size": 3309
+        },
+        {
+            "name": "gen_int3.ipl",
+            "path": "files/data/maps/interior/gen_int3.ipl",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/maps/interior/gen_int3.ipl",
+            "size": 2091
+        },
+        {
+            "name": "gen_int4.ide",
+            "path": "files/data/maps/interior/gen_int4.ide",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/maps/interior/gen_int4.ide",
+            "size": 2323
+        },
+        {
+            "name": "gen_int4.ipl",
+            "path": "files/data/maps/interior/gen_int4.ipl",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/maps/interior/gen_int4.ipl",
+            "size": 1185
+        },
+        {
+            "name": "gen_int5.ide",
+            "path": "files/data/maps/interior/gen_int5.ide",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/maps/interior/gen_int5.ide",
+            "size": 4682
+        },
+        {
+            "name": "gen_int5.ipl",
+            "path": "files/data/maps/interior/gen_int5.ipl",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/maps/interior/gen_int5.ipl",
+            "size": 2988
+        },
+        {
+            "name": "gen_intb.ide",
+            "path": "files/data/maps/interior/gen_intb.ide",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/maps/interior/gen_intb.ide",
+            "size": 5459
+        },
+        {
+            "name": "gen_intb.ipl",
+            "path": "files/data/maps/interior/gen_intb.ipl",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/maps/interior/gen_intb.ipl",
+            "size": 1626
+        },
+        {
+            "name": "int_cont.ide",
+            "path": "files/data/maps/interior/int_cont.ide",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/maps/interior/int_cont.ide",
+            "size": 385
+        },
+        {
+            "name": "int_cont.ipl",
+            "path": "files/data/maps/interior/int_cont.ipl",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/maps/interior/int_cont.ipl",
+            "size": 910
+        },
+        {
+            "name": "int_LA.ide",
+            "path": "files/data/maps/interior/int_LA.ide",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/maps/interior/int_LA.ide",
+            "size": 6004
+        },
+        {
+            "name": "int_LA.IPL",
+            "path": "files/data/maps/interior/int_LA.IPL",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/maps/interior/int_LA.IPL",
+            "size": 1316
+        },
+        {
+            "name": "int_sf.ide",
+            "path": "files/data/maps/interior/int_sf.ide",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/maps/interior/int_sf.ide",
+            "size": 1260
+        },
+        {
+            "name": "int_SF.ipl",
+            "path": "files/data/maps/interior/int_SF.ipl",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/maps/interior/int_SF.ipl",
+            "size": 1334
+        },
+        {
+            "name": "int_veg.ide",
+            "path": "files/data/maps/interior/int_veg.ide",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/maps/interior/int_veg.ide",
+            "size": 4684
+        },
+        {
+            "name": "int_veg.ipl",
+            "path": "files/data/maps/interior/int_veg.ipl",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/maps/interior/int_veg.ipl",
+            "size": 5299
+        },
+        {
+            "name": "propext.ide",
+            "path": "files/data/maps/interior/propext.ide",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/maps/interior/propext.ide",
+            "size": 2340
+        },
+        {
+            "name": "props.ide",
+            "path": "files/data/maps/interior/props.ide",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/maps/interior/props.ide",
+            "size": 26326
+        },
+        {
+            "name": "props2.ide",
+            "path": "files/data/maps/interior/props2.ide",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/maps/interior/props2.ide",
+            "size": 21186
+        },
+        {
+            "name": "savehous.ide",
+            "path": "files/data/maps/interior/savehous.ide",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/maps/interior/savehous.ide",
+            "size": 1724
+        },
+        {
+            "name": "savehous.ipl",
+            "path": "files/data/maps/interior/savehous.ipl",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/maps/interior/savehous.ipl",
+            "size": 2959
+        },
+        {
+            "name": "stadint.ide",
+            "path": "files/data/maps/interior/stadint.ide",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/maps/interior/stadint.ide",
+            "size": 2851
+        },
+        {
+            "name": "stadint.ipl",
+            "path": "files/data/maps/interior/stadint.ipl",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/maps/interior/stadint.ipl",
+            "size": 6299
+        },
+        {
+            "name": "interior_doors.ipl",
+            "path": "files/data/maps/interior_doors.ipl",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/maps/interior_doors.ipl",
+            "size": 2416
+        },
+        {
+            "name": "Interiors.ipl",
+            "path": "files/data/maps/Interiors.ipl",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/maps/Interiors.ipl",
+            "size": 17484
+        },
+        {
+            "name": "Jefferson Motel Roof.ipl",
+            "path": "files/data/maps/Jefferson Motel Roof.ipl",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/maps/Jefferson Motel Roof.ipl",
+            "size": 224
+        },
+        {
+            "name": "LAe.ide",
+            "path": "files/data/maps/LA/LAe.ide",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/maps/LA/LAe.ide",
+            "size": 12249
+        },
+        {
+            "name": "LAe.ipl",
+            "path": "files/data/maps/LA/LAe.ipl",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/maps/LA/LAe.ipl",
+            "size": 27328
+        },
+        {
+            "name": "LAe2.ide",
+            "path": "files/data/maps/LA/LAe2.ide",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/maps/LA/LAe2.ide",
+            "size": 21907
+        },
+        {
+            "name": "LAe2.ipl",
+            "path": "files/data/maps/LA/LAe2.ipl",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/maps/LA/LAe2.ipl",
+            "size": 33651
+        },
+        {
+            "name": "LAhills.ide",
+            "path": "files/data/maps/LA/LAhills.ide",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/maps/LA/LAhills.ide",
+            "size": 10601
+        },
+        {
+            "name": "LAhills.ipl",
+            "path": "files/data/maps/LA/LAhills.ipl",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/maps/LA/LAhills.ipl",
+            "size": 34506
+        },
+        {
+            "name": "lan.ide",
+            "path": "files/data/maps/LA/lan.ide",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/maps/LA/lan.ide",
+            "size": 11109
+        },
+        {
+            "name": "LAn.ipl",
+            "path": "files/data/maps/LA/LAn.ipl",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/maps/LA/LAn.ipl",
+            "size": 14264
+        },
+        {
+            "name": "LAn2.ide",
+            "path": "files/data/maps/LA/LAn2.ide",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/maps/LA/LAn2.ide",
+            "size": 9565
+        },
+        {
+            "name": "lan2.ipl",
+            "path": "files/data/maps/LA/lan2.ipl",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/maps/LA/lan2.ipl",
+            "size": 13233
+        },
+        {
+            "name": "LAs.ide",
+            "path": "files/data/maps/LA/LAs.ide",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/maps/LA/LAs.ide",
+            "size": 12575
+        },
+        {
+            "name": "LAs.ipl",
+            "path": "files/data/maps/LA/LAs.ipl",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/maps/LA/LAs.ipl",
+            "size": 22414
+        },
+        {
+            "name": "LAs2.ide",
+            "path": "files/data/maps/LA/LAs2.ide",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/maps/LA/LAs2.ide",
+            "size": 12364
+        },
+        {
+            "name": "LAs2.ipl",
+            "path": "files/data/maps/LA/LAs2.ipl",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/maps/LA/LAs2.ipl",
+            "size": 38441
+        },
+        {
+            "name": "LAw.ide",
+            "path": "files/data/maps/LA/LAw.ide",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/maps/LA/LAw.ide",
+            "size": 9412
+        },
+        {
+            "name": "LAw.ipl",
+            "path": "files/data/maps/LA/LAw.ipl",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/maps/LA/LAw.ipl",
+            "size": 15105
+        },
+        {
+            "name": "law2.ide",
+            "path": "files/data/maps/LA/law2.ide",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/maps/LA/law2.ide",
+            "size": 11060
+        },
+        {
+            "name": "LAw2.ipl",
+            "path": "files/data/maps/LA/LAw2.ipl",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/maps/LA/LAw2.ipl",
+            "size": 18242
+        },
+        {
+            "name": "LaWn.ide",
+            "path": "files/data/maps/LA/LaWn.ide",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/maps/LA/LaWn.ide",
+            "size": 13092
+        },
+        {
+            "name": "LaWn.ipl",
+            "path": "files/data/maps/LA/LaWn.ipl",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/maps/LA/LaWn.ipl",
+            "size": 24327
+        },
+        {
+            "name": "LAxref.ide",
+            "path": "files/data/maps/LA/LAxref.ide",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/maps/LA/LAxref.ide",
+            "size": 10477
+        },
+        {
+            "name": "LampostCruces.IPL",
+            "path": "files/data/maps/LampostCruces.IPL",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/maps/LampostCruces.IPL",
+            "size": 40358
+        },
+        {
+            "name": "leveldes.ide",
+            "path": "files/data/maps/leveldes/leveldes.ide",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/maps/leveldes/leveldes.ide",
+            "size": 360
+        },
+        {
+            "name": "leveldes.ipl",
+            "path": "files/data/maps/leveldes/leveldes.ipl",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/maps/leveldes/leveldes.ipl",
+            "size": 165
+        },
+        {
+            "name": "levelmap.ide",
+            "path": "files/data/maps/leveldes/levelmap.ide",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/maps/leveldes/levelmap.ide",
+            "size": 3194
+        },
+        {
+            "name": "levelmap.ipl",
+            "path": "files/data/maps/leveldes/levelmap.ipl",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/maps/leveldes/levelmap.ipl",
+            "size": 4675
+        },
+        {
+            "name": "levelxre.ide",
+            "path": "files/data/maps/leveldes/levelxre.ide",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/maps/leveldes/levelxre.ide",
+            "size": 9897
+        },
+        {
+            "name": "seabed.ide",
+            "path": "files/data/maps/leveldes/seabed.ide",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/maps/leveldes/seabed.ide",
+            "size": 12039
+        },
+        {
+            "name": "seabed.ipl",
+            "path": "files/data/maps/leveldes/seabed.ipl",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/maps/leveldes/seabed.ipl",
+            "size": 23342
+        },
+        {
+            "name": "LODvegetation.ide",
+            "path": "files/data/maps/LODvegetation.ide",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/maps/LODvegetation.ide",
+            "size": 5109
+        },
+        {
+            "name": "lumos.ide",
+            "path": "files/data/maps/lumos.ide",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/maps/lumos.ide",
+            "size": 623
+        },
+        {
+            "name": "lumos.ipl",
+            "path": "files/data/maps/lumos.ipl",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/maps/lumos.ipl",
+            "size": 437
+        },
+        {
+            "name": "Missing CJ Door Fix.ipl",
+            "path": "files/data/maps/Missing CJ Door Fix.ipl",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/maps/Missing CJ Door Fix.ipl",
+            "size": 152
+        },
+        {
+            "name": "missing lampposts fix.ipl",
+            "path": "files/data/maps/missing lampposts fix.ipl",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/maps/missing lampposts fix.ipl",
+            "size": 32748
+        },
+        {
+            "name": "neonobj.ide",
+            "path": "files/data/maps/neonobj.ide",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/maps/neonobj.ide",
+            "size": 433
+        },
+        {
+            "name": "occlu.ipl",
+            "path": "files/data/maps/occlu.ipl",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/maps/occlu.ipl",
+            "size": 1012
+        },
+        {
+            "name": "occluint.ipl",
+            "path": "files/data/maps/occluint.ipl",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/maps/occluint.ipl",
+            "size": 2338
+        },
+        {
+            "name": "occluLA.ipl",
+            "path": "files/data/maps/occluLA.ipl",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/maps/occluLA.ipl",
+            "size": 35956
+        },
+        {
+            "name": "occlusf.ipl",
+            "path": "files/data/maps/occlusf.ipl",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/maps/occlusf.ipl",
+            "size": 16114
+        },
+        {
+            "name": "occluveg.ipl",
+            "path": "files/data/maps/occluveg.ipl",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/maps/occluveg.ipl",
+            "size": 17873
+        },
+        {
+            "name": "oldcity.ide",
+            "path": "files/data/maps/oldcity/oldcity.ide",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/maps/oldcity/oldcity.ide",
+            "size": 66
+        },
+        {
+            "name": "oldcity.IPL",
+            "path": "files/data/maps/oldcity/oldcity.IPL",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/maps/oldcity/oldcity.IPL",
+            "size": 15410
+        },
+        {
+            "name": "Optional.ipl",
+            "path": "files/data/maps/Optional.ipl",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/maps/Optional.ipl",
+            "size": 3140
+        },
+        {
+            "name": "paths.ipl",
+            "path": "files/data/maps/paths.ipl",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/maps/paths.ipl",
+            "size": 2658607
+        },
+        {
+            "name": "paths2.ipl",
+            "path": "files/data/maps/paths2.ipl",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/maps/paths2.ipl",
+            "size": 2292241
+        },
+        {
+            "name": "paths3.ipl",
+            "path": "files/data/maps/paths3.ipl",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/maps/paths3.ipl",
+            "size": 2428066
+        },
+        {
+            "name": "paths4.ipl",
+            "path": "files/data/maps/paths4.ipl",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/maps/paths4.ipl",
+            "size": 253014
+        },
+        {
+            "name": "paths5.ipl",
+            "path": "files/data/maps/paths5.ipl",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/maps/paths5.ipl",
+            "size": 457678
+        },
+        {
+            "name": "praia_djjr.IPL",
+            "path": "files/data/maps/praia_djjr.IPL",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/maps/praia_djjr.IPL",
+            "size": 14691
+        },
+        {
+            "name": "SFe.ide",
+            "path": "files/data/maps/SF/SFe.ide",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/maps/SF/SFe.ide",
+            "size": 16224
+        },
+        {
+            "name": "sfe.ipl",
+            "path": "files/data/maps/SF/sfe.ipl",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/maps/SF/sfe.ipl",
+            "size": 26685
+        },
+        {
+            "name": "SFn.ide",
+            "path": "files/data/maps/SF/SFn.ide",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/maps/SF/SFn.ide",
+            "size": 11219
+        },
+        {
+            "name": "SFn.ipl",
+            "path": "files/data/maps/SF/SFn.ipl",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/maps/SF/SFn.ipl",
+            "size": 26201
+        },
+        {
+            "name": "SFs.ide",
+            "path": "files/data/maps/SF/SFs.ide",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/maps/SF/SFs.ide",
+            "size": 18948
+        },
+        {
+            "name": "SFs.ipl",
+            "path": "files/data/maps/SF/SFs.ipl",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/maps/SF/SFs.ipl",
+            "size": 37969
+        },
+        {
+            "name": "sfse.ide",
+            "path": "files/data/maps/SF/sfse.ide",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/maps/SF/sfse.ide",
+            "size": 30220
+        },
+        {
+            "name": "SFSe.ipl",
+            "path": "files/data/maps/SF/SFSe.ipl",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/maps/SF/SFSe.ipl",
+            "size": 53359
+        },
+        {
+            "name": "sfw.ide",
+            "path": "files/data/maps/SF/sfw.ide",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/maps/SF/sfw.ide",
+            "size": 16473
+        },
+        {
+            "name": "SFw.ipl",
+            "path": "files/data/maps/SF/SFw.ipl",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/maps/SF/SFw.ipl",
+            "size": 29247
+        },
+        {
+            "name": "SFxref.ide",
+            "path": "files/data/maps/SF/SFxref.ide",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/maps/SF/SFxref.ide",
+            "size": 4631
+        },
+        {
+            "name": "tubsmoke.ipl",
+            "path": "files/data/maps/tubsmoke.ipl",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/maps/tubsmoke.ipl",
+            "size": 3503
+        },
+        {
+            "name": "tunnels.ipl",
+            "path": "files/data/maps/tunnels.ipl",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/maps/tunnels.ipl",
+            "size": 3230
+        },
+        {
+            "name": "unus_obj.ipl",
+            "path": "files/data/maps/unus_obj.ipl",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/maps/unus_obj.ipl",
+            "size": 1806
+        },
+        {
+            "name": "vegase.ide",
+            "path": "files/data/maps/Vegas/vegase.ide",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/maps/Vegas/vegase.ide",
+            "size": 35532
+        },
+        {
+            "name": "vegasE.ipl",
+            "path": "files/data/maps/Vegas/vegasE.ipl",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/maps/Vegas/vegasE.ipl",
+            "size": 65172
+        },
+        {
+            "name": "VegasN.ide",
+            "path": "files/data/maps/Vegas/VegasN.ide",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/maps/Vegas/VegasN.ide",
+            "size": 23715
+        },
+        {
+            "name": "vegasn.ipl",
+            "path": "files/data/maps/Vegas/vegasn.ipl",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/maps/Vegas/vegasn.ipl",
+            "size": 36698
+        },
+        {
+            "name": "VegasS.ide",
+            "path": "files/data/maps/Vegas/VegasS.ide",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/maps/Vegas/VegasS.ide",
+            "size": 18656
+        },
+        {
+            "name": "vegass.ipl",
+            "path": "files/data/maps/Vegas/vegass.ipl",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/maps/Vegas/vegass.ipl",
+            "size": 26525
+        },
+        {
+            "name": "VegasW.ide",
+            "path": "files/data/maps/Vegas/VegasW.ide",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/maps/Vegas/VegasW.ide",
+            "size": 25456
+        },
+        {
+            "name": "vegasw.ipl",
+            "path": "files/data/maps/Vegas/vegasw.ipl",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/maps/Vegas/vegasw.ipl",
+            "size": 50426
+        },
+        {
+            "name": "vegaxref.ide",
+            "path": "files/data/maps/Vegas/vegaxref.ide",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/maps/Vegas/vegaxref.ide",
+            "size": 5751
+        },
+        {
+            "name": "vegaxref.ipl",
+            "path": "files/data/maps/Vegas/vegaxref.ipl",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/maps/Vegas/vegaxref.ipl",
+            "size": 3661
+        },
+        {
+            "name": "veh_mods.ide",
+            "path": "files/data/maps/veh_mods/veh_mods.ide",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/maps/veh_mods/veh_mods.ide",
+            "size": 7323
+        },
+        {
+            "name": "vinelumination.ipl",
+            "path": "files/data/maps/vinelumination.ipl",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/maps/vinelumination.ipl",
+            "size": 781
+        },
+        {
+            "name": "vineveg.ipl",
+            "path": "files/data/maps/vineveg.ipl",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/maps/vineveg.ipl",
+            "size": 3692
+        },
+        {
+            "name": "melee.dat",
+            "path": "files/data/melee.dat",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/melee.dat",
+            "size": 6306
+        },
+        {
+            "name": "object.dat",
+            "path": "files/data/object.dat",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/object.dat",
+            "size": 126458
+        },
+        {
+            "name": "carrec.img",
+            "path": "files/data/paths/carrec.img",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/paths/carrec.img",
+            "size": 2357248
+        },
+        {
+            "name": "ROADBLOX.DAT",
+            "path": "files/data/paths/ROADBLOX.DAT",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/paths/ROADBLOX.DAT",
+            "size": 1304
+        },
+        {
+            "name": "tracks.dat",
+            "path": "files/data/paths/tracks.dat",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/paths/tracks.dat",
+            "size": 25474
+        },
+        {
+            "name": "tracks2.dat",
+            "path": "files/data/paths/tracks2.dat",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/paths/tracks2.dat",
+            "size": 1892
+        },
+        {
+            "name": "tracks3.dat",
+            "path": "files/data/paths/tracks3.dat",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/paths/tracks3.dat",
+            "size": 8328
+        },
+        {
+            "name": "tracks4.dat",
+            "path": "files/data/paths/tracks4.dat",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/paths/tracks4.dat",
+            "size": 18347
+        },
+        {
+            "name": "ped.dat",
+            "path": "files/data/ped.dat",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/ped.dat",
+            "size": 1276
+        },
+        {
+            "name": "pedgrp.dat",
+            "path": "files/data/pedgrp.dat",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/pedgrp.dat",
+            "size": 5804
+        },
+        {
+            "name": "peds.ide",
+            "path": "files/data/peds.ide",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/peds.ide",
+            "size": 33617
+        },
+        {
+            "name": "pedstats.dat",
+            "path": "files/data/pedstats.dat",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/pedstats.dat",
+            "size": 3604
+        },
+        {
+            "name": "plants.dat",
+            "path": "files/data/plants.dat",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/plants.dat",
+            "size": 9921
+        },
+        {
+            "name": "popcycle.dat",
+            "path": "files/data/popcycle.dat",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/popcycle.dat",
+            "size": 127108
+        },
+        {
+            "name": "procobj.dat",
+            "path": "files/data/procobj.dat",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/procobj.dat",
+            "size": 12771
+        },
+        {
+            "name": "des_cact.ipl",
+            "path": "files/data/SA_DO/des_cact.ipl",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/SA_DO/des_cact.ipl",
+            "size": 528250
+        },
+        {
+            "name": "desert.ipl",
+            "path": "files/data/SA_DO/desert.ipl",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/SA_DO/desert.ipl",
+            "size": 808714
+        },
+        {
+            "name": "SALodLights.dat",
+            "path": "files/data/SALodLights.dat",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/SALodLights.dat",
+            "size": 86642
+        },
+        {
+            "name": "mainV1.scm",
+            "path": "files/data/script/mainV1.scm",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/script/mainV1.scm",
+            "size": 3169778
+        },
+        {
+            "name": "scriptv1.img",
+            "path": "files/data/script/scriptv1.img",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/script/scriptv1.img",
+            "size": 561152
+        },
+        {
+            "name": "shopping.dat",
+            "path": "files/data/shopping.dat",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/shopping.dat",
+            "size": 46875
+        },
+        {
+            "name": "ShopUVs.dat",
+            "path": "files/data/ShopUVs.dat",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/ShopUVs.dat",
+            "size": 30509
+        },
+        {
+            "name": "statdisp.dat",
+            "path": "files/data/statdisp.dat",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/statdisp.dat",
+            "size": 7292
+        },
+        {
+            "name": "surface.dat",
+            "path": "files/data/surface.dat",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/surface.dat",
+            "size": 576
+        },
+        {
+            "name": "surfaud.dat",
+            "path": "files/data/surfaud.dat",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/surfaud.dat",
+            "size": 6530
+        },
+        {
+            "name": "surfinfo.dat",
+            "path": "files/data/surfinfo.dat",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/surfinfo.dat",
+            "size": 28106
+        },
+        {
+            "name": "timecyc.dat",
+            "path": "files/data/timecyc.dat",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/timecyc.dat",
+            "size": 40520
+        },
+        {
+            "name": "TouchDefaultPhone3x2.cfg",
+            "path": "files/data/TouchDefaultPhone3x2.cfg",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/TouchDefaultPhone3x2.cfg",
+            "size": 10912
+        },
+        {
+            "name": "TouchDefaultPhoneWidescreen.cfg",
+            "path": "files/data/TouchDefaultPhoneWidescreen.cfg",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/TouchDefaultPhoneWidescreen.cfg",
+            "size": 10924
+        },
+        {
+            "name": "TouchDefaultTablet4x3.cfg",
+            "path": "files/data/TouchDefaultTablet4x3.cfg",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/TouchDefaultTablet4x3.cfg",
+            "size": 10926
+        },
+        {
+            "name": "TouchDefaultTabletWidescreen.cfg",
+            "path": "files/data/TouchDefaultTabletWidescreen.cfg",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/TouchDefaultTabletWidescreen.cfg",
+            "size": 10923
+        },
+        {
+            "name": "txdcut.ide",
+            "path": "files/data/txdcut.ide",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/txdcut.ide",
+            "size": 478
+        },
+        {
+            "name": "vehicles.ide",
+            "path": "files/data/vehicles.ide",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/vehicles.ide",
+            "size": 21093
+        },
+        {
+            "name": "water.dat",
+            "path": "files/data/water.dat",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/water.dat",
+            "size": 70099
+        },
+        {
+            "name": "water1.dat",
+            "path": "files/data/water1.dat",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/water1.dat",
+            "size": 60063
+        },
+        {
+            "name": "weapon.dat",
+            "path": "files/data/weapon.dat",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/data/weapon.dat",
+            "size": 11602
+        },
+        {
+            "name": "fastman92limitAdjuster.log",
+            "path": "files/fastman92limitAdjuster.log",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/fastman92limitAdjuster.log",
+            "size": 4350
+        },
+        {
+            "name": "fastman92limitAdjuster_GTASA.ini",
+            "path": "files/fastman92limitAdjuster_GTASA.ini",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/fastman92limitAdjuster_GTASA.ini",
+            "size": 6519
+        },
+        {
+            "name": "arial.ttf",
+            "path": "files/fonts/arial.ttf",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/fonts/arial.ttf",
+            "size": 367112
+        },
+        {
+            "name": "arial_bold.ttf",
+            "path": "files/fonts/arial_bold.ttf",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/fonts/arial_bold.ttf",
+            "size": 352224
+        },
+        {
+            "name": "georgia.ttf",
+            "path": "files/fonts/georgia.ttf",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/fonts/georgia.ttf",
+            "size": 219712
+        },
+        {
+            "name": "gtaweap3.ttf",
+            "path": "files/fonts/gtaweap3.ttf",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/fonts/gtaweap3.ttf",
+            "size": 104004
+        },
+        {
+            "name": "impact.ttf",
+            "path": "files/fonts/impact.ttf",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/fonts/impact.ttf",
+            "size": 206784
+        },
+        {
+            "name": "palatino_linotype.ttf",
+            "path": "files/fonts/palatino_linotype.ttf",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/fonts/palatino_linotype.ttf",
+            "size": 489884
+        },
+        {
+            "name": "quartz_ms.ttf",
+            "path": "files/fonts/quartz_ms.ttf",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/fonts/quartz_ms.ttf",
+            "size": 51032
+        },
+        {
+            "name": "segoe_print.ttf",
+            "path": "files/fonts/segoe_print.ttf",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/fonts/segoe_print.ttf",
+            "size": 172448
+        },
+        {
+            "name": "segoe_script.ttf",
+            "path": "files/fonts/segoe_script.ttf",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/fonts/segoe_script.ttf",
+            "size": 620204
+        },
+        {
+            "name": "tahoma.ttf",
+            "path": "files/fonts/tahoma.ttf",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/fonts/tahoma.ttf",
+            "size": 939280
+        },
+        {
+            "name": "webdings.ttf",
+            "path": "files/fonts/webdings.ttf",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/fonts/webdings.ttf",
+            "size": 120560
+        },
+        {
+            "name": "wingding.ttf",
+            "path": "files/fonts/wingding.ttf",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/fonts/wingding.ttf",
+            "size": 82180
+        },
+        {
+            "name": "peds.col",
+            "path": "files/models/coll/peds.col",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/models/coll/peds.col",
+            "size": 21477
+        },
+        {
+            "name": "vehicles.col",
+            "path": "files/models/coll/vehicles.col",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/models/coll/vehicles.col",
+            "size": 1096
+        },
+        {
+            "name": "weapons.col",
+            "path": "files/models/coll/weapons.col",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/models/coll/weapons.col",
+            "size": 560
+        },
+        {
+            "name": "effects.fxp",
+            "path": "files/models/effects.fxp",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/models/effects.fxp",
+            "size": 616708
+        },
+        {
+            "name": "grass0_1.dff",
+            "path": "files/models/grass/grass0_1.dff",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/models/grass/grass0_1.dff",
+            "size": 1981
+        },
+        {
+            "name": "grass0_2.dff",
+            "path": "files/models/grass/grass0_2.dff",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/models/grass/grass0_2.dff",
+            "size": 1981
+        },
+        {
+            "name": "grass0_3.dff",
+            "path": "files/models/grass/grass0_3.dff",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/models/grass/grass0_3.dff",
+            "size": 1981
+        },
+        {
+            "name": "grass0_4.dff",
+            "path": "files/models/grass/grass0_4.dff",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/models/grass/grass0_4.dff",
+            "size": 1981
+        },
+        {
+            "name": "grass1_1.dff",
+            "path": "files/models/grass/grass1_1.dff",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/models/grass/grass1_1.dff",
+            "size": 1981
+        },
+        {
+            "name": "grass1_2.dff",
+            "path": "files/models/grass/grass1_2.dff",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/models/grass/grass1_2.dff",
+            "size": 1981
+        },
+        {
+            "name": "grass1_3.dff",
+            "path": "files/models/grass/grass1_3.dff",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/models/grass/grass1_3.dff",
+            "size": 1981
+        },
+        {
+            "name": "grass1_4.dff",
+            "path": "files/models/grass/grass1_4.dff",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/models/grass/grass1_4.dff",
+            "size": 1981
+        },
+        {
+            "name": "grass2_1.dff",
+            "path": "files/models/grass/grass2_1.dff",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/models/grass/grass2_1.dff",
+            "size": 1981
+        },
+        {
+            "name": "grass2_2.dff",
+            "path": "files/models/grass/grass2_2.dff",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/models/grass/grass2_2.dff",
+            "size": 1981
+        },
+        {
+            "name": "grass2_3.dff",
+            "path": "files/models/grass/grass2_3.dff",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/models/grass/grass2_3.dff",
+            "size": 1981
+        },
+        {
+            "name": "grass2_4.dff",
+            "path": "files/models/grass/grass2_4.dff",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/models/grass/grass2_4.dff",
+            "size": 1981
+        },
+        {
+            "name": "grass3_1.dff",
+            "path": "files/models/grass/grass3_1.dff",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/models/grass/grass3_1.dff",
+            "size": 1981
+        },
+        {
+            "name": "grass3_2.dff",
+            "path": "files/models/grass/grass3_2.dff",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/models/grass/grass3_2.dff",
+            "size": 1981
+        },
+        {
+            "name": "grass3_3.dff",
+            "path": "files/models/grass/grass3_3.dff",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/models/grass/grass3_3.dff",
+            "size": 1981
+        },
+        {
+            "name": "grass3_4.dff",
+            "path": "files/models/grass/grass3_4.dff",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/models/grass/grass3_4.dff",
+            "size": 1981
+        },
+        {
+            "name": "plant1.dff",
+            "path": "files/models/grass/plant1.dff",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/models/grass/plant1.dff",
+            "size": 2072
+        },
+        {
+            "name": "MINFO.BIN",
+            "path": "files/models/MINFO.BIN",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/models/MINFO.BIN",
+            "size": 41100
+        },
+        {
+            "name": "gta.dat",
+            "path": "files/SAMP/gta.dat",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/SAMP/gta.dat",
+            "size": 3789
+        },
+        {
+            "name": "handling.cfg",
+            "path": "files/SAMP/handling.cfg",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/SAMP/handling.cfg",
+            "size": 64532
+        },
+        {
+            "name": "main.scm",
+            "path": "files/SAMP/main.scm",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/SAMP/main.scm",
+            "size": 96997
+        },
+        {
+            "name": "peds.ide",
+            "path": "files/SAMP/peds.ide",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/SAMP/peds.ide",
+            "size": 36369
+        },
+        {
+            "name": "SAMP.ide",
+            "path": "files/SAMP/SAMP.ide",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/SAMP/SAMP.ide",
+            "size": 89349
+        },
+        {
+            "name": "script.img",
+            "path": "files/SAMP/script.img",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/SAMP/script.img",
+            "size": 184320
+        },
+        {
+            "name": "TIMECYC.DAT",
+            "path": "files/SAMP/TIMECYC.DAT",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/SAMP/TIMECYC.DAT",
+            "size": 40037
+        },
+        {
+            "name": "tracks2.dat",
+            "path": "files/SAMP/tracks2.dat",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/SAMP/tracks2.dat",
+            "size": 1
+        },
+        {
+            "name": "tracks4.dat",
+            "path": "files/SAMP/tracks4.dat",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/SAMP/tracks4.dat",
+            "size": 1
+        },
+        {
+            "name": "vehicles.ide",
+            "path": "files/SAMP/vehicles.ide",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/SAMP/vehicles.ide",
+            "size": 21093
+        },
+        {
+            "name": "WEAPON.dat",
+            "path": "files/SAMP/WEAPON.dat",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/SAMP/WEAPON.dat",
+            "size": 11585
+        },
+        {
+            "name": "stream.ini",
+            "path": "files/stream.ini",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/stream.ini",
+            "size": 197
+        },
+        {
+            "name": "cutscene.img",
+            "path": "files/texdb/cutscene.img",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/texdb/cutscene.img",
+            "size": 19052544
+        },
+        {
+            "name": "cutscene.dxt.dat",
+            "path": "files/texdb/cutscene/cutscene.dxt.dat",
+            "url": "https://github.com/sahisahil9393-rgb/my-skins/releases/download/gta-sa-android-files-v1.0.0/files__texdb__cutscene__cutscene.dxt.dat",
+            "size": 215353046
+        },
+        {
+            "name": "cutscene.dxt.tmb",
+            "path": "files/texdb/cutscene/cutscene.dxt.tmb",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/texdb/cutscene/cutscene.dxt.tmb",
+            "size": 21248
+        },
+        {
+            "name": "cutscene.dxt.toc",
+            "path": "files/texdb/cutscene/cutscene.dxt.toc",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/texdb/cutscene/cutscene.dxt.toc",
+            "size": 1708
+        },
+        {
+            "name": "cutscene.txt",
+            "path": "files/texdb/cutscene/cutscene.txt",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/texdb/cutscene/cutscene.txt",
+            "size": 21231
+        },
+        {
+            "name": "cutscene.unc.tmb",
+            "path": "files/texdb/cutscene/cutscene.unc.tmb",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/texdb/cutscene/cutscene.unc.tmb",
+            "size": 113696
+        },
+        {
+            "name": "gta3.img",
+            "path": "files/texdb/gta3.img",
+            "url": "https://github.com/sahisahil9393-rgb/my-skins/releases/download/gta-sa-android-files-v1.0.0/files__texdb__gta3.img",
+            "size": 404250624
+        },
+        {
+            "name": "gta3.dxt.dat",
+            "path": "files/texdb/gta3/gta3.dxt.dat",
+            "url": "https://github.com/sahisahil9393-rgb/my-skins/releases/download/gta-sa-android-files-v1.0.0/files__texdb__gta3__gta3.dxt.dat",
+            "size": 1238788492
+        },
+        {
+            "name": "gta3.dxt.tmb",
+            "path": "files/texdb/gta3/gta3.dxt.tmb",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/texdb/gta3/gta3.dxt.tmb",
+            "size": 632128
+        },
+        {
+            "name": "gta3.dxt.toc",
+            "path": "files/texdb/gta3/gta3.dxt.toc",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/texdb/gta3/gta3.dxt.toc",
+            "size": 51632
+        },
+        {
+            "name": "gta3.txt",
+            "path": "files/texdb/gta3/gta3.txt",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/texdb/gta3/gta3.txt",
+            "size": 721429
+        },
+        {
+            "name": "gta3.unc.tmb",
+            "path": "files/texdb/gta3/gta3.unc.tmb",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/texdb/gta3/gta3.unc.tmb",
+            "size": 2899552
+        },
+        {
+            "name": "gta_int.img",
+            "path": "files/texdb/gta_int.img",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/texdb/gta_int.img",
+            "size": 45740032
+        },
+        {
+            "name": "gta_int.dxt.dat",
+            "path": "files/texdb/gta_int/gta_int.dxt.dat",
+            "url": "https://github.com/sahisahil9393-rgb/my-skins/releases/download/gta-sa-android-files-v1.0.0/files__texdb__gta_int__gta_int.dxt.dat",
+            "size": 199050406
+        },
+        {
+            "name": "gta_int.dxt.tmb",
+            "path": "files/texdb/gta_int/gta_int.dxt.tmb",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/texdb/gta_int/gta_int.dxt.tmb",
+            "size": 136768
+        },
+        {
+            "name": "gta_int.dxt.toc",
+            "path": "files/texdb/gta_int/gta_int.dxt.toc",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/texdb/gta_int/gta_int.dxt.toc",
+            "size": 10240
+        },
+        {
+            "name": "gta_int.txt",
+            "path": "files/texdb/gta_int/gta_int.txt",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/texdb/gta_int/gta_int.txt",
+            "size": 130478
+        },
+        {
+            "name": "gta_int.unc.tmb",
+            "path": "files/texdb/gta_int/gta_int.unc.tmb",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/texdb/gta_int/gta_int.unc.tmb",
+            "size": 692512
+        },
+        {
+            "name": "menu.txt",
+            "path": "files/texdb/menu/menu.txt",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/texdb/menu/menu.txt",
+            "size": 3342
+        },
+        {
+            "name": "mobile.dxt.dat",
+            "path": "files/texdb/mobile/mobile.dxt.dat",
+            "url": "https://github.com/sahisahil9393-rgb/my-skins/releases/download/gta-sa-android-files-v1.0.0/files__texdb__mobile__mobile.dxt.dat",
+            "size": 185333580
+        },
+        {
+            "name": "mobile.dxt.tmb",
+            "path": "files/texdb/mobile/mobile.dxt.tmb",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/texdb/mobile/mobile.dxt.tmb",
+            "size": 49864
+        },
+        {
+            "name": "mobile.dxt.toc",
+            "path": "files/texdb/mobile/mobile.dxt.toc",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/texdb/mobile/mobile.dxt.toc",
+            "size": 792
+        },
+        {
+            "name": "mobile.etc.dat",
+            "path": "files/texdb/mobile/mobile.etc.dat",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/texdb/mobile/mobile.etc.dat",
+            "size": 8712314
+        },
+        {
+            "name": "mobile.etc.tmb",
+            "path": "files/texdb/mobile/mobile.etc.tmb",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/texdb/mobile/mobile.etc.tmb",
+            "size": 3940
+        },
+        {
+            "name": "mobile.etc.toc",
+            "path": "files/texdb/mobile/mobile.etc.toc",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/texdb/mobile/mobile.etc.toc",
+            "size": 792
+        },
+        {
+            "name": "mobile.pvr.dat",
+            "path": "files/texdb/mobile/mobile.pvr.dat",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/texdb/mobile/mobile.pvr.dat",
+            "size": 8712314
+        },
+        {
+            "name": "mobile.pvr.tmb",
+            "path": "files/texdb/mobile/mobile.pvr.tmb",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/texdb/mobile/mobile.pvr.tmb",
+            "size": 3940
+        },
+        {
+            "name": "mobile.pvr.toc",
+            "path": "files/texdb/mobile/mobile.pvr.toc",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/texdb/mobile/mobile.pvr.toc",
+            "size": 792
+        },
+        {
+            "name": "mobile.txt",
+            "path": "files/texdb/mobile/mobile.txt",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/texdb/mobile/mobile.txt",
+            "size": 14738
+        },
+        {
+            "name": "mobile.unc.tmb",
+            "path": "files/texdb/mobile/mobile.unc.tmb",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/texdb/mobile/mobile.unc.tmb",
+            "size": 49864
+        },
+        {
+            "name": "player.img",
+            "path": "files/texdb/player.img",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/texdb/player.img",
+            "size": 16412672
+        },
+        {
+            "name": "player.txt",
+            "path": "files/texdb/player/player.txt",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/texdb/player/player.txt",
+            "size": 27810
+        },
+        {
+            "name": "playerhi.txt",
+            "path": "files/texdb/playerhi/playerhi.txt",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/texdb/playerhi/playerhi.txt",
+            "size": 28087
+        },
+        {
+            "name": "samp.img",
+            "path": "files/texdb/samp.img",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/texdb/samp.img",
+            "size": 35909632
+        },
+        {
+            "name": "samp.txt",
+            "path": "files/texdb/samp/samp.txt",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/texdb/samp/samp.txt",
+            "size": 89301
+        },
+        {
+            "name": "SAMPCOL.img",
+            "path": "files/texdb/SAMPCOL.img",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/texdb/SAMPCOL.img",
+            "size": 4253696
+        },
+        {
+            "name": "txd.dxt.dat",
+            "path": "files/texdb/txd/txd.dxt.dat",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/texdb/txd/txd.dxt.dat",
+            "size": 65588664
+        },
+        {
+            "name": "txd.dxt.tmb",
+            "path": "files/texdb/txd/txd.dxt.tmb",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/texdb/txd/txd.dxt.tmb",
+            "size": 61808
+        },
+        {
+            "name": "txd.dxt.toc",
+            "path": "files/texdb/txd/txd.dxt.toc",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/texdb/txd/txd.dxt.toc",
+            "size": 2396
+        },
+        {
+            "name": "txd.txt",
+            "path": "files/texdb/txd/txd.txt",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/texdb/txd/txd.txt",
+            "size": 45885
+        },
+        {
+            "name": "txd.unc.tmb",
+            "path": "files/texdb/txd/txd.unc.tmb",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/texdb/txd/txd.unc.tmb",
+            "size": 90512
+        },
+        {
+            "name": "american.gxt",
+            "path": "files/Text/american.gxt",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/Text/american.gxt",
+            "size": 1339424
+        },
+        {
+            "name": "french.gxt",
+            "path": "files/Text/french.gxt",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/Text/french.gxt",
+            "size": 1459044
+        },
+        {
+            "name": "german.gxt",
+            "path": "files/Text/german.gxt",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/Text/german.gxt",
+            "size": 1497182
+        },
+        {
+            "name": "italian.gxt",
+            "path": "files/Text/italian.gxt",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/Text/italian.gxt",
+            "size": 1371048
+        },
+        {
+            "name": "japanese.gxt",
+            "path": "files/Text/japanese.gxt",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/Text/japanese.gxt",
+            "size": 643202
+        },
+        {
+            "name": "russian.gxt",
+            "path": "files/Text/russian.gxt",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/Text/russian.gxt",
+            "size": 1421038
+        },
+        {
+            "name": "spanish.gxt",
+            "path": "files/Text/spanish.gxt",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/Text/spanish.gxt",
+            "size": 1386744
+        },
+        {
+            "name": "JapaneseFont.met",
+            "path": "files/Textures/fonts/JapaneseFont.met",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/Textures/fonts/JapaneseFont.met",
+            "size": 45171
+        },
+        {
+            "name": "RussianFont.met",
+            "path": "files/Textures/fonts/RussianFont.met",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/Textures/fonts/RussianFont.met",
+            "size": 4279
+        },
+        {
+            "name": "RussianFont.png",
+            "path": "files/Textures/fonts/RussianFont.png",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/files/Textures/fonts/RussianFont.png",
+            "size": 38743
+        },
+        {
+            "name": "libAdvancedAiming.SA.so",
+            "path": "mods/libAdvancedAiming.SA.so",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/mods/libAdvancedAiming.SA.so",
+            "size": 24220
+        },
+        {
+            "name": "libAdvancedSettings.SA.so",
+            "path": "mods/libAdvancedSettings.SA.so",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/mods/libAdvancedSettings.SA.so",
+            "size": 51200
+        },
+        {
+            "name": "libBASSMod.so",
+            "path": "mods/libBASSMod.so",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/mods/libBASSMod.so",
+            "size": 2108692
+        },
+        {
+            "name": "libBlipWorks.so",
+            "path": "mods/libBlipWorks.so",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/mods/libBlipWorks.so",
+            "size": 131496
+        },
+        {
+            "name": "libCheatMenu.so",
+            "path": "mods/libCheatMenu.so",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/mods/libCheatMenu.so",
+            "size": 1083252
+        },
+        {
+            "name": "libCLEO_IniFiles.so",
+            "path": "mods/libCLEO_IniFiles.so",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/mods/libCLEO_IniFiles.so",
+            "size": 524364
+        },
+        {
+            "name": "libCLEO_IntOperations.so",
+            "path": "mods/libCLEO_IntOperations.so",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/mods/libCLEO_IntOperations.so",
+            "size": 23268
+        },
+        {
+            "name": "libCLEO_VisualObject.so",
+            "path": "mods/libCLEO_VisualObject.so",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/mods/libCLEO_VisualObject.so",
+            "size": 390788
+        },
+        {
+            "name": "libCLEOMod.so",
+            "path": "mods/libCLEOMod.so",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/mods/libCLEOMod.so",
+            "size": 795280
+        },
+        {
+            "name": "libCLEOPlus.so",
+            "path": "mods/libCLEOPlus.so",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/mods/libCLEOPlus.so",
+            "size": 299348
+        },
+        {
+            "name": "libCPUControl.so",
+            "path": "mods/libCPUControl.so",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/mods/libCPUControl.so",
+            "size": 2405
+        },
+        {
+            "name": "libCustomLoadingBar.so",
+            "path": "mods/libCustomLoadingBar.so",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/mods/libCustomLoadingBar.so",
+            "size": 45160
+        },
+        {
+            "name": "libFPSStabil.so",
+            "path": "mods/libFPSStabil.so",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/mods/libFPSStabil.so",
+            "size": 531765
+        },
+        {
+            "name": "libFullscreenSplash.so",
+            "path": "mods/libFullscreenSplash.so",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/mods/libFullscreenSplash.so",
+            "size": 4280
+        },
+        {
+            "name": "libJPatch.so",
+            "path": "mods/libJPatch.so",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/mods/libJPatch.so",
+            "size": 377752
+        },
+        {
+            "name": "libmoresettings.so",
+            "path": "mods/libmoresettings.so",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/mods/libmoresettings.so",
+            "size": 22784
+        },
+        {
+            "name": "libProject2DFX.so",
+            "path": "mods/libProject2DFX.so",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/mods/libProject2DFX.so",
+            "size": 239748
+        },
+        {
+            "name": "libSAPlanter.so",
+            "path": "mods/libSAPlanter.so",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/mods/libSAPlanter.so",
+            "size": 141196
+        },
+        {
+            "name": "libSAUtils.so",
+            "path": "mods/libSAUtils.so",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/mods/libSAUtils.so",
+            "size": 170876
+        },
+        {
+            "name": "libSDX.so",
+            "path": "mods/libSDX.so",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/mods/libSDX.so",
+            "size": 20336
+        },
+        {
+            "name": "libSkyGfxMobile.so",
+            "path": "mods/libSkyGfxMobile.so",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/mods/libSkyGfxMobile.so",
+            "size": 231120
+        },
+        {
+            "name": "libStarrySkies.so",
+            "path": "mods/libStarrySkies.so",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/mods/libStarrySkies.so",
+            "size": 131016
+        },
+        {
+            "name": "libSun_PS2.so",
+            "path": "mods/libSun_PS2.so",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/mods/libSun_PS2.so",
+            "size": 13852
+        },
+        {
+            "name": "libViewModelsInfo.so",
+            "path": "mods/libViewModelsInfo.so",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/mods/libViewModelsInfo.so",
+            "size": 186168
+        },
+        {
+            "name": "libWideRender.so",
+            "path": "mods/libWideRender.so",
+            "url": "https://raw.githubusercontent.com/sahisahil9393-rgb/my-skins/main/mods/libWideRender.so",
+            "size": 5856
+        }
+    ]
+}
